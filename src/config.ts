@@ -1,24 +1,22 @@
 export const siteConfig = {
-  title: "Menooa Avrand",
+  title: "Daniel Mangasarian",
   description:
-    "Vehicle Hardware and Dynamics Team Lead at CalSol. Studying Mech Engr at the University of California, Berkeley.",
-  author: "Menooa Avrand",
-  url: "https://www.menooaavrand.com",
+    "Working at the intersection of biology and technology, creating tools and applications that make research more efficient and intuitive.",
+  author: "Daniel Mangasarian",
+  url: "https://www.danielmangasarian.com",
   themeColor: "#111010",
 } as const;
 
 export const personalConfig = {
-  name: "menooa",
+  name: "daniel",
   emoji: "👋",
   description: `
-  I currently work as a Vehicle Hardware and Dynamics Team Lead at [Cal Sol](https://calsol.berkeley.edu/). I previously worked at [Ferrari](https://www.ferrari.com/en-US) as a Mechanical Engineering Intern.
-  
-  I'm currently studying Mechanical Engineering at [University of California, Berkeley](https://me.berkeley.edu/).`,
+  Hey, I'm Daniel! I currently work as a researcher at the Chiu Lab @ UCSF, where I contribute to improving the speed and accuracy of infectious disease diagnostics. I am premed, intereseted specifically in the intersection of biology and technology, creating tools and applications that make research more efficient and intuitive.`,
   externalLinks: [
-    { href: "https://www.linkedin.com/in/menooaavrand/", text: "linkedin" },
-    { href: "mailto:menooaavrand@berkeley.edu", text: "email" },
-    { href: "/Menooa_Avrand_resume.pdf", text: "resume" },
-    { href: "/Menooa Avrand Project Portfolio.pdf", text: "portfolio" },
+    { href: "www.linkedin.com/in/danielmangasarian/", text: "linkedin" },
+    { href: "mailto:danielmangasarian@gmail.com", text: "email" },
+    { href: "/Resume.pdf", text: "resume" },
+    { href: "/Portfolio.pdf", text: "portfolio" },
 
 
   ],
